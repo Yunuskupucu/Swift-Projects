@@ -6,7 +6,7 @@
 <hr>
 <br> <br>
 
-## Haber Projesi : JSON'dan çekilen haber verilerini verileri prototype cell kullanarak içerikler görüntülenir.
+## Haber Projesi : JSON'dan çekilen haber verileri prototype cell kullanarak içerikler görüntülenir.
 
 <br>
 <img width="1440" alt="HaberProjesi" src="https://github.com/Yunuskupucu/Swift-Projects/assets/107491954/c7b6a286-b9d5-4b57-8c12-ffe1514e0b20">
